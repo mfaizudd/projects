@@ -1,4 +1,4 @@
-baseURL = "https://faizud.net"
+baseURL = "https://projects.faizud.net"
 languageCode = "en-us"
 title = "Projects"
 Paginate = 1000
