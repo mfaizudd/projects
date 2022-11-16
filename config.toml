@@ -1,0 +1,23 @@
+baseURL = "https://faizud.net"
+languageCode = "en-us"
+title = "Projects"
+Paginate = 1000
+googleAnalytics = ""
+theme = "showcase"
+disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
+
+# this setting should always be set to false, otherwise it will break the section navigation bar
+pluralizelisttitles = false
+
+[params]
+author = "Muhammad Faizud Daroin"
+description = "Portfolio"
+message = ""
+hideAutoMenu = false
+
+# Pagination options
+paginate = 3
+multipage = true
+
+# Dark mode
+darkMode = true
