@@ -16,7 +16,7 @@ message = ""
 hideAutoMenu = false
 
 # Pagination options
-paginate = 3
+paginate = 6
 multipage = true
 
 # Dark mode
