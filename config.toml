@@ -21,3 +21,7 @@ multipage = true
 
 # Dark mode
 darkMode = true
+
+[social]
+linkedin = "https://linkedin.com/in/mfaizudd"
+github = "https://github.com/mfaizudd"
